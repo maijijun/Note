@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "8e40c69657302bbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f13903876ac1479a",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Image Host/Jenkins/1.png.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15eba08edd25c424",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e9f4767fdba3ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b34f052fceefb2e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e544fa9302772b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4be23f28629e723",
+    "type": "split",
+    "children": [
+      {
+        "id": "761ff9dd23432725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac925c42e4f18a12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Image Host/Jenkins/1.png.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f13903876ac1479a",
+  "lastOpenFiles": [
+    "Image Host/Jenkins/1.png.png",
+    "Jenkins/Jenkins start.md",
+    "Jenkins/assets/img/1.png.md",
+    "Jenkins/assets/img.md",
+    "assets/img.md",
+    "Untitled.md",
+    "README.md"
+  ]
+}
