@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f13903876ac1479a",
+        "id": "7e856f8c41cfc1ee",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Image Host/Jenkins/1.png.png"
+            "file": "Jenkins/Jenkins start.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image Host/Jenkins/1.png.png",
+                "file": "Jenkins/Jenkins start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,10 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f13903876ac1479a",
+  "active": "7e856f8c41cfc1ee",
   "lastOpenFiles": [
-    "Image Host/Jenkins/1.png.png",
     "Jenkins/Jenkins start.md",
+    "Image Host/Jenkins/1.png.png",
     "Jenkins/assets/img/1.png.md",
     "Jenkins/assets/img.md",
     "assets/img.md",
