@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jenkins/Jenkins start.md",
+            "file": "Jenkins/Jenkins_Install.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jenkins/Jenkins start.md",
+                "file": "Jenkins/Jenkins_Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,15 @@
   },
   "active": "7e856f8c41cfc1ee",
   "lastOpenFiles": [
-    "Jenkins/Jenkins start.md",
+    "Jenkins/Jenkins_Install.md",
+    "SSH/01_SSH_Start.md",
+    "Jenkins/Jenkins_Start.md",
+    "README.md",
+    "Image Host/202204241458383.jpg",
     "Image Host/Jenkins/1.png.png",
     "Jenkins/assets/img/1.png.md",
     "Jenkins/assets/img.md",
     "assets/img.md",
-    "Untitled.md",
-    "README.md"
+    "Untitled.md"
   ]
 }
