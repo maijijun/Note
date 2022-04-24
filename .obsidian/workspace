@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SonarQube/01_SonarQube安装.md",
-            "mode": "source"
+            "file": "SonarQube/00_SonarQube介绍.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SonarQube/01_SonarQube安装.md",
+                "file": "SonarQube/00_SonarQube介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "7e856f8c41cfc1ee",
   "lastOpenFiles": [
-    "SonarQube/01_SonarQube安装.md",
     "SonarQube/00_SonarQube介绍.md",
+    "SonarQube/01_SonarQube安装.md",
     "Image Host/SonarQube/SonarQube_Instance.png",
     "Jenkins/Jenkins_Install.md",
     "SSH/01_SSH_Start.md",
