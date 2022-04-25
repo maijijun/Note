@@ -6,7 +6,6 @@
 ### Sonar-Scanner
 
 
-
 ### SonarQube-Server
 
 ### Database
